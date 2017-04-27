@@ -13,14 +13,9 @@ bin/
 gen/
 build/
 *.un~
-app
+app/*.iml
+app/build
 .gradle/
-app/
-build.gradle
-gradle/
-gradlew
-gradlew.bat
+.idea/
 import-summary.txt
-local.properties
-settings.gradle
 *.iml
