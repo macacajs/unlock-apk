@@ -13,7 +13,7 @@
     "url": "git://github.com/macacajs/unlock-apk.git"
   },
   "dependencies": {
-    "cross-spawn": "^5.1.0"
+    "gradle": "^1.0.0"
   },
   "devDependencies": {
     "co-mocha": "*",
