@@ -18,4 +18,5 @@ app/build
 .gradle/
 .idea/
 import-summary.txt
+local.properties
 *.iml
