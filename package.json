@@ -1,6 +1,6 @@
 {
   "name": "unlock-apk",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "An android apk to make sure test device is unlocked while running Macaca.",
   "keywords": [
     "unlock",

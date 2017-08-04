@@ -7,6 +7,11 @@ const gradle = require('gradle');
 
 const cwd = path.join(__dirname, '..');
 
+var args = ['assembleDebug'];
+
+args.push(`-PmavenMirrorUrl=${process.env.MAVEN_MIRROR_URL || ''}`);
+
 gradle({
-  cwd: cwd
+  cwd: cwd,
+  args: args
 });
