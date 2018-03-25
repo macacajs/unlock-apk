@@ -17,16 +17,18 @@
   },
   "devDependencies": {
     "co-mocha": "*",
-    "mocha": "*",
-    "should": "*",
-    "jshint": "*",
+    "git-contributor": "^1.0.3",
     "istanbul": "*",
-    "pre-commit": "1.1.1"
+    "jshint": "*",
+    "mocha": "*",
+    "pre-commit": "1.1.1",
+    "should": "*"
   },
   "scripts": {
     "test": "make test",
     "jshint": "make jshint",
-    "install": "node ./script/build.js"
+    "install": "node ./script/build.js",
+    "contributor": "git-contributor"
   },
   "pre-commit": [
     "jshint"
