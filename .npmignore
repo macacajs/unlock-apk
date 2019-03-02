@@ -1,10 +1,9 @@
 node_modules
 .travis.yml
-examples/
-Makefile
 .jshintrc
 .jshintignore
 coverage/
+.nyc_output/
 *.sw*
 bin/
 gen/

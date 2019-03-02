@@ -18,14 +18,13 @@
   "devDependencies": {
     "git-contributor": "^1.0.3",
     "husky": "^1.3.1",
-    "istanbul": "*",
     "jshint": "*",
     "mocha": "*",
-    "should": "*"
+    "nyc": "^13.3.0"
   },
   "scripts": {
-    "test": "make test",
-    "lint": "make jshint",
+    "test": "nyc --reporter=lcov --reporter=text mocha",
+    "lint": "jshint .",
     "install": "node ./script/build.js",
     "contributor": "git-contributor"
   },

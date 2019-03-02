@@ -1,9 +1,10 @@
 'use strict';
 
-var unlockApk = require('..');
+const unlockApk = require('..');
+const assert = require('assert');
 
-describe('test', function() {
-  it('should be ok', function() {
-    unlockApk.apkPath.should.be.ok();
+describe('test', () => {
+  it('should be ok', () => {
+    assert.ok(unlockApk);
   });
 });

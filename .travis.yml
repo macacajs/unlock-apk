@@ -18,10 +18,11 @@ before_script:
     - export GRADLE_HOME=$PWD/gradle-5.2
     - export PATH=$GRADLE_HOME/bin:$PATH
     - . $HOME/.nvm/nvm.sh
-    - nvm install 6
-    - nvm use 6
-    - npm install
+    - nvm install 8
+    - nvm use 8
+    - npm i
 script:
-  - make travis
+  - npm run lint
+  - npm run test
 after_script:
   - npm install coveralls@2 && cat ./coverage/lcov.info | coveralls

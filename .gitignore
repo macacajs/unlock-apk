@@ -5,13 +5,14 @@ npm-debug.log
 .idea/*
 Thumbs.db
 coverage/
+.nyc_output/
 .project
 build/
 bin/
 gen/
 app/build
 .gradle/
-local.properties 
+local.properties
 import-summary.txt
 *.iml
 *.un~
