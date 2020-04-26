@@ -21,7 +21,9 @@ before_script:
   - . $HOME/.nvm/nvm.sh
   - nvm install 10
   - nvm use 10
+  - npm i
 script:
-  - make travis
+  - npm run lint
+  - npm run test
 after_script:
   - npm install coveralls@2 && cat ./coverage/lcov.info | coveralls
