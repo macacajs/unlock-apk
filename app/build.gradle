@@ -1,7 +1,7 @@
 apply plugin: 'com.android.application'
 
 android {
-    buildToolsVersion "25.0.2"
+    buildToolsVersion "28.0.3"
 
     defaultConfig {
         compileSdkVersion 26
