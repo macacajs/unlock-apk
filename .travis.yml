@@ -1,7 +1,8 @@
 language: android
 sudo: required
 jdk:
-  - oraclejdk8
+  - openjdk8
+  - openjdk11
 android:
   components:
     - tools
@@ -21,7 +22,6 @@ before_script:
   - nvm install 10
   - nvm use 10
 script:
-  - npm run lint
-  - npm run test
+  - make travis
 after_script:
   - npm install coveralls@2 && cat ./coverage/lcov.info | coveralls
