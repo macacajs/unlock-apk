@@ -23,11 +23,11 @@
 
 ## Contributors
 
-|[<img src="https://avatars1.githubusercontent.com/u/1011681?v=4" width="100px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>|[<img src="https://avatars3.githubusercontent.com/u/1209810?v=4" width="100px;"/><br/><sub><b>paradite</b></sub>](https://github.com/paradite)<br/>|[<img src="https://avatars1.githubusercontent.com/u/3709431?v=4" width="100px;"/><br/><sub><b>LiangjunJiang</b></sub>](https://github.com/LiangjunJiang)<br/>|
-| :---: | :---: | :---: |
+|[<img src="https://avatars1.githubusercontent.com/u/1011681?v=4" width="100px;"/><br/><sub><b>xudafeng</b></sub>](https://github.com/xudafeng)<br/>|[<img src="https://avatars3.githubusercontent.com/u/1209810?v=4" width="100px;"/><br/><sub><b>paradite</b></sub>](https://github.com/paradite)<br/>|[<img src="https://avatars1.githubusercontent.com/u/3709431?v=4" width="100px;"/><br/><sub><b>LiangjunJiang</b></sub>](https://github.com/LiangjunJiang)<br/>|[<img src="https://avatars0.githubusercontent.com/u/5117373?v=4" width="100px;"/><br/><sub><b>niaoshuai</b></sub>](https://github.com/niaoshuai)<br/>|
+| :---: | :---: | :---: | :---: |
 
 
-This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Sat Mar 02 2019 20:51:07 GMT+0800`.
+This project follows the git-contributor [spec](https://github.com/xudafeng/git-contributor), auto updated at `Sun Apr 26 2020 15:13:55 GMT+0800`.
 
 <!-- GITCONTRIBUTOR_END -->
 

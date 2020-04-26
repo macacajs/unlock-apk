@@ -1,6 +1,6 @@
 {
   "name": "unlock-apk",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "An android apk to make sure test device is unlocked while running Macaca.",
   "keywords": [
     "unlock",
@@ -33,6 +33,5 @@
       "pre-commit": "npm run lint"
     }
   },
-  "homepage": "https://github.com/macacajs/unlock-apk",
   "license": "MIT"
 }
