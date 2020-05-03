@@ -1,6 +1,6 @@
 {
   "name": "unlock-apk",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "An android apk to make sure test device is unlocked while running Macaca.",
   "keywords": [
     "unlock",
@@ -13,7 +13,7 @@
     "url": "git://github.com/macacajs/unlock-apk.git"
   },
   "dependencies": {
-    "gradle": "*"
+    "gradle": "1"
   },
   "devDependencies": {
     "git-contributor": "^1.0.3",
