@@ -6,13 +6,13 @@
 [![node version][node-image]][node-url]
 [![npm download][download-image]][download-url]
 
-[npm-image]: https://img.shields.io/npm/v/unlock-apk.svg?style=flat-square
+[npm-image]: https://img.shields.io/npm/v/unlock-apk.svg
 [npm-url]: https://npmjs.org/package/unlock-apk
-[travis-image]: https://img.shields.io/travis/macacajs/unlock-apk.svg?style=flat-square
+[travis-image]: https://img.shields.io/travis/macacajs/unlock-apk.svg
 [travis-url]: https://travis-ci.org/macacajs/unlock-apk
-[coveralls-image]: https://img.shields.io/coveralls/macacajs/unlock-apk.svg?style=flat-square
+[coveralls-image]: https://img.shields.io/coveralls/macacajs/unlock-apk.svg
 [coveralls-url]: https://coveralls.io/r/macacajs/unlock-apk?branch=master
-[node-image]: https://img.shields.io/badge/node.js-%3E=_0.10-green.svg?style=flat-square
+[node-image]: https://img.shields.io/badge/node.js-%3E=_0.10-green.svg
 [node-url]: http://nodejs.org/download/
 [download-image]: https://img.shields.io/npm/dm/unlock-apk.svg?style=flat-square
 [download-url]: https://npmjs.org/package/unlock-apk
